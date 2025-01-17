@@ -1,1 +1,2 @@
 # Pose_Estimation_Using_OpenCV
+Human Pose Estimation (HPE) is a critical area in computer vision with applications in healthcare, sports analysis, surveillance, and human-computer interaction. This project, titled "Pose_Estimation_Using_OpenCV" aims to develop a system capable of detecting and estimating human body poses from images and video sequences while providing an interactive deployment interface for user interaction.
