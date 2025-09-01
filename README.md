@@ -146,9 +146,9 @@ numpy
 📜 Internship Acknowledgment
  1. This project was successfully developed as part of my AICTE Internship.
  2. The internship provided an excellent opportunity to gain hands-on experience with:
-   * AI in Computer Vision
-   * Human Pose Estimation Techniques
-   * Model Deployment with Streamlit
+    * AI in Computer Vision
+    * Human Pose Estimation Techniques
+    * Model Deployment with Streamlit
 ---
 
 ## 📄 License  
